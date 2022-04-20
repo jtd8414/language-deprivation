@@ -4,11 +4,13 @@ Language deprivation means being denied access to a natural language during the 
 
 ## Who does this affect?
 
-There are many famous examples of this happening to hearing children whom were neglected or lost and not exposed to language. The less talked about but more common example is that of deaf children who were not exposed to sign language at an early age. Language deprivation "can cause cognitive delays and mental health difficulties across the lifespan. Mental health clinicians often see language deprivation and language dysfluency being a common “symptom” in deaf individuals who seek treatment, and are subsequently admitted to inpatient hospitals" [[2]](#2).
+There are many famous examples of this happening to hearing children who were neglected or lost and not exposed to language. The less talked about but more common example is that of deaf children who were not exposed to sign language at an early age. Language deprivation "can cause cognitive delays and mental health difficulties across the lifespan. Mental health clinicians often see language deprivation and language dysfluency being a common “symptom” in deaf individuals who seek treatment, and are subsequently admitted to inpatient hospitals" [[2]](#2).
 
 ## Pathological framework that parents face
 
-The current approach for educating parents about their deaf child is biased and can often lead to language deprivation. Parents are often under the impression that cochlear implants are the only option for their deaf child to acquire language, however "receiving a cochlear implant... between one and two years of age does not guarantee normal spoken language skills five years after implantation: non-signing implanted children can display significant language deficits relative to their hearing peers, including lower vocabulary knowledge and inconsistent speech production/perception" [[2]](#2). By teaching a deaf child to hear (via a cochlear implant) while at the same time learning a spoken language while having no language of their own is considerably more burdensome and harmful to the child than already having a growing language foundation that can be used to help cochlear implant skill development [[1]](#1).
+The current approach for educating parents about their deaf child is biased and can often lead to language deprivation. Parents are often under the impression that cochlear implants are the only option for their deaf child to acquire language, however "receiving a cochlear implant... between one and two years of age does not guarantee normal spoken language skills five years after implantation: non-signing implanted children can display significant language deficits relative to their hearing peers, including lower vocabulary knowledge and inconsistent speech production/perception" [[2]](#2). By teaching a deaf child to hear (via a cochlear implant) while at the same time learning a spoken language while having no language of their own is more burdensome and harmful to the child than already having a growing language foundation that can be used to help cochlear implant skill development [[1]](#1).
+
+![Cochlear implant or ASL](/assets/images/cochlear-or-asl.avif)
 
 ## Preventing language deprivation
 
@@ -16,16 +18,16 @@ Instead of directly implanting a cochlear implant into a deaf child, if a parent
 
 ## What is incidental learning?
 
-Incidental learning refers to any learning that is unplanned or unintended. It develops while engaging in a task or activity and may arise as a byproduct of planned learning. 75% - 80% of learning happens incidentally during a childs early years. Hearing children grow up in households where they have unlimited access to information gained auditorally. For a deaf child, they are unable to access incidental learning in the same way when language deprivation occurs [[1]](#1). By using sign language in the environment a deaf child grows up in, it allows the deaf child to pick up on information they might not have otherwise gleaned. 
+Incidental learning refers to any learning that is unplanned or unintended. It develops while engaging in a task or activity and may arise as a byproduct of planned learning. 75% - 80% of learning happens incidentally during a child's early years. Hearing children grow up in households where they have unlimited access to information gained auditorily. For a deaf child, they are unable to access incidental learning in the same way when language deprivation occurs [[1]](#1). By using sign language in the environment, a deaf child grows up in, it allows the deaf child to notice information they might not have otherwise gleaned. 
 
 ## Resources for learning ASL
 
 If a parent is hearing and does not know American Sign Language (ASL) it can seem quite daunting learning an entire new language to prevent language deprivation. This is often why parents choose to lean towards leveraging a cochlear implant. But there are many tools to help children and their families learn sign language.
 - You can request American Sign Language instruction from your child’s early intervention system.
-- https://deafchildren.org/
-- https://www.vl2family.org/
-- https://aslcore.org/
-- https://www.rit.edu/ntid/radscc-asl
+- [https://deafchildren.org/](https://deafchildren.org/)
+- [https://www.vl2family.org/](https://www.vl2family.org/)
+- [https://aslcore.org/](https://aslcore.org/)
+- [https://www.rit.edu/ntid/radscc-asl](https://www.rit.edu/ntid/radscc-asl)
 
 ---
 ## References
@@ -33,4 +35,4 @@ If a parent is hearing and does not know American Sign Language (ASL) it can see
 Hill, Corinna. 2022. Deaf Culture in America, Language deprivation lecture. Rochester Institute of Technology, Rochester, NY.
 
 <a id="2">[2]</a> 
-Hall, W.C. What You Don’t Know Can Hurt You: The Risk of Language Deprivation by Impairing Sign Language Development in Deaf Children. Matern Child Health J 21, 961–965 (2017). https://doi-org.ezproxy.rit.edu/10.1007/s10995-017-2287-y
+Hall, W.C. What You Don’t Know Can Hurt You: The Risk of Language Deprivation by Impairing Sign Language Development in Deaf Children. Matern Child Health J 21, 961–965 (2017). [https://doi-org.ezproxy.rit.edu/10.1007/s10995-017-2287-y](https://doi-org.ezproxy.rit.edu/10.1007/s10995-017-2287-y)
