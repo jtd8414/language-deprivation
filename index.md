@@ -1,37 +1,14 @@
-## Language Deprivation
+## What is language deprivation?
 
-You can use the [editor on GitHub](https://github.com/jtd8414/language-deprivation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Language deprivation means being denied access to a natural language during the language acquisition period (0 - 5 years) [[1]](#1). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who does this affect?
 
-### Markdown
+There are many famous examples of this happening to hearing children whom were neglected or lost and not exposed to language. The less talked about but more common example is that of deaf children who were not exposed to sign language at an early age. The current approach for educating parents about their deaf child is biased and can often lead to language deprivation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is incidental learning?
+Incidental learning refers to any learning that is unpanned or unintended. It develops while engaging in a task or activity and may arise as a byproduct of planned learning.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jtd8414/language-deprivation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## References
+<a id="1">[1]</a> 
+Hill, Corinna. 2022. Deaf Culture in America, Language deprivation lecture. Rochester Institute of Technology, Rochester, NY.
