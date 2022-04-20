@@ -15,8 +15,3 @@ Incidental learning refers to any learning that is unplanned or unintended. It d
 <a id="1">[1]</a> 
 Hill, Corinna. 2022. Deaf Culture in America, Language deprivation lecture. Rochester Institute of Technology, Rochester, NY.
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
