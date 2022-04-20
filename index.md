@@ -1,5 +1,3 @@
-<link rel="icon" type="image/png" href="/assets/images/favicon.png">
-
 ## Language Deprivation
 
 Language deprivation means being denied access to a natural language during the language acquisition period (0 - 5 years) [[1]](#1). 
