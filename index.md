@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" href="/assets/images/favicon.png">
+
 ## Language Deprivation
 
 Language deprivation means being denied access to a natural language during the language acquisition period (0 - 5 years) [[1]](#1). 
@@ -11,6 +13,7 @@ Incidental learning refers to any learning that is unplanned or unintended. It d
 
 ## Pathological framework that parents face
 
+---
 ## References
 <a id="1">[1]</a> 
 Hill, Corinna. 2022. Deaf Culture in America, Language deprivation lecture. Rochester Institute of Technology, Rochester, NY.
