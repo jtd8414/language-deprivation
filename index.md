@@ -18,7 +18,7 @@ Instead of directly implanting a cochlear implant into a deaf child, if a parent
 
 ## What is incidental learning?
 
-Incidental learning refers to any learning that is unplanned or unintended. It develops while engaging in a task or activity and may arise as a byproduct of planned learning. 75% - 80% of learning happens incidentally during a child's early years. Hearing children grow up in households where they have unlimited access to information gained auditorily. For a deaf child, they are unable to access incidental learning in the same way when language deprivation occurs [[1]](#1). By using sign language in the environment, a deaf child grows up in, it allows the deaf child to notice information they might not have otherwise gleaned. 
+Incidental learning refers to any learning that is unplanned or unintended. It develops while engaging in a task or activity and may arise as a byproduct of planned learning. 75% - 80% of learning happens incidentally during a child's early years. Hearing children grow up in households where they have unlimited access to information gained auditorily. For a deaf child, they are unable to access incidental learning in the same way when language deprivation occurs [[1]](#1). By using sign language in the environment a deaf child grows up in, it allows the deaf child to notice information they might not have otherwise gleaned. 
 
 ## Resources for learning ASL
 
@@ -28,6 +28,10 @@ If a parent is hearing and does not know American Sign Language (ASL) it can see
 - [https://www.vl2family.org/](https://www.vl2family.org/)
 - [https://aslcore.org/](https://aslcore.org/)
 - [https://www.rit.edu/ntid/radscc-asl](https://www.rit.edu/ntid/radscc-asl)
+
+## Synopsis
+Dr. Wyatte C. Hall writing for the "Maternal and Child Health Journal" frames it clearly:
+> The lifelong consequences of language deprivation are too far-reaching, from early childhood to adulthood, to limit a deaf child’s time-sensitive language acquisition opportunities. Rather than focusing on auditory deprivation and speech skills, developmental approaches for deaf children should prioritize healthy, expected development of all developmental domains (e.g., cognitive, academic, socio-emotional) that comes with the guaranteed full acquisition of a fully accessible first-language language foundation such as sign language [[2]](#2).
 
 ---
 ## References
