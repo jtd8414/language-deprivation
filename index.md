@@ -10,7 +10,7 @@ There are many famous examples of this happening to hearing children who were ne
 
 The current approach for educating parents about their deaf child is biased and can often lead to language deprivation. Parents are often under the impression that cochlear implants are the only option for their deaf child to acquire language, however "receiving a cochlear implant... between one and two years of age does not guarantee normal spoken language skills five years after implantation: non-signing implanted children can display significant language deficits relative to their hearing peers, including lower vocabulary knowledge and inconsistent speech production/perception" [[2]](#2). By teaching a deaf child to hear (via a cochlear implant) while at the same time learning a spoken language while having no language of their own is more burdensome and harmful to the child than already having a growing language foundation that can be used to help cochlear implant skill development [[1]](#1).
 
-![Cochlear implant or ASL](/assets/images/cochlear-or-asl.avif)
+![Cochlear implant or ASL](/assets/images/cochlear-or-asl.png)
 
 ## Preventing language deprivation
 
